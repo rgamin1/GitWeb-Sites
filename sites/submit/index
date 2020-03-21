@@ -14,7 +14,7 @@ item-label-4=Report
 item-icon-4=ERROR
 
 #paragraph
-text=To make a site on GitWeb2 all you have to do is goto https://github.com/rgamin1/GitWeb-Sites and make a pull request with \nthe github link to your site and the site adress that \nyou want to use 
+text=To make a site on GitWeb2 all you have to do is goto https://github.com/rgamin1/GitWeb-Sites and make a pull request with the github link \nto your site and the site adress that you want to use 
 image=https://avatars1.githubusercontent.com/u/2132216?s=460&v=4
 padding=10
 
