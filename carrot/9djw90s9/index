@@ -1,0 +1,15 @@
+#banner
+image=https://i.imgur.com/rIzqukr.png
+text=&f&lExample site
+
+#navigation
+item-link-1=9djw90s9.carrot
+item-label-1=Home
+item-icon-1=HOME
+
+#paragraph
+text=Coca Cola 20$ or 15 Euro\nJust put money behind gas making station.\nThe product will be in your mail box (Adress Taken from Router).
+
+#navigation
+item-link-1=9djw90s9.carrot/cc-buy
+item-lavel-1=Buy
