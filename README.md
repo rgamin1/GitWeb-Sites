@@ -1,7 +1,5 @@
 # RiriWeb-Sites
-This GitHub repo is based off of MtCrayFish's GitWeb. By no means am I taking any ownership of the work made by this amazing man.
-I am only using this because I though that it would be cool to make a different version of GitWeb that is completely non moterated.
-All credit goes to MrCrayFish.
+This GitHub repo is based off of MrCrayFish and MinecraftDoodler's. By no means am I taking any ownership of the work made by these amazing men. I am only using this because I though that it would be cool to make a different version of GitWeb that is completely non-moderated. All credit goes to MrCrayFish.
 
 ## Rules of Index creation
 1. You are limited to the use of domain suffixes presented in the suffix section of this file.
