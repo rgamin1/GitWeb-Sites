@@ -14,9 +14,17 @@ item-label-4=Report
 item-icon-4=ERROR
 
 #paragraph
-text=To make a site on GitWeb2 all you have to do is goto https://github.com/rgamin1/GitWeb-Sites and make a pull request with the github link \nto your site and the site adress that you want to use 
+text=To make a site on GitWeb2 all you have to do is goto https://github.com/rgamin1/GitWeb-Sites and make a pull request with the github link \nto your site and the site adress that you want to use there are some domain suffixes that are restricted such as .offical and .sites.
 image=https://avatars1.githubusercontent.com/u/2132216?s=460&v=4
 padding=10
+
+#paragraph
+text=Example: Pull Request: Adress: example.site Site: https://github.com/rgamin1/examplesite-gitweb2
+padding=10
+
+#navigation
+item-link-1=example.site
+item-label-1=Example Site
 
 #footer
 title=GitWeb
